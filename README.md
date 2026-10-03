@@ -12,4 +12,3 @@ An end-to-end data engineering and machine learning pipeline designed to store a
 - Python 3.10
 - SQL Server Management Studio (SSMS)
 - PyCharm IDE
--
